@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/23796316/returning-the-inverse-matrix-from-a-cached-object-in-r
